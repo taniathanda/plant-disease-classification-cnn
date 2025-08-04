@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification using CNN
+# 🌿 Plant Leaf Disease Detection Using Deep Learning
 
 This project implements a **Convolutional Neural Network (CNN)** using PyTorch to classify plant leaf images into different disease categories. The model is trained on the **PlantVillage dataset** and achieves high accuracy through proper data augmentation, normalization, and model tuning.
 
