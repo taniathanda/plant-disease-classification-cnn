@@ -25,16 +25,16 @@ This project implements a **Convolutional Neural Network (CNN)** & **ResNet-18(T
 ---
 
 ## 📊 Results
-- Custom CNN
--   •	Accuracy: 96%
-    •	Weighted Average Precision: 0.96
-    •	Weighted Average Recall: 0.96
-    •	Weighted Average F1-score: 0.96
--ResNet-18 (Transfer Learning)
-  •	Accuracy: 98%
-  •	Weighted Average Precision: 0.98
-  •	Weighted Average Recall: 0.98
-  •	Weighted Average F1-score: 0.98  
+- **Custom CNN**
+-   •	Accuracy: 96%   
+    •	Weighted Average Precision: 0.96   
+    •	Weighted Average Recall: 0.96   
+    •	Weighted Average F1-score: 0.96   
+- **ResNet-18 (Transfer Learning)**    
+  •	Accuracy: 98%    
+  •	Weighted Average Precision: 0.98    
+  •	Weighted Average Recall: 0.98    
+  •	Weighted Average F1-score: 0.98      
 
 ---
 
